@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/usernameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_marginTop="@dimen/margin30"
+        android:textSize="@dimen/font24"
+        android:paddingStart="@dimen/margin15"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/bodyTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/font24"
+        android:paddingStart="@dimen/margin60"
+        tools:ignore="RtlSymmetry" />
+
+</android.widget.LinearLayout>

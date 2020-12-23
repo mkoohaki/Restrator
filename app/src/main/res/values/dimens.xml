@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading">24sp</dimen>
+    <dimen name="main">20sp</dimen>
+    <dimen name="marginTop">80dp</dimen>
+    <dimen name="name_width">250dp</dimen>
+    <dimen name="font">24sp</dimen>
+    <dimen name="startSize">40dp</dimen>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="font24">24sp</dimen>
+    <dimen name="font20">20sp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="margin60">60dp</dimen>
+    <dimen name="terms_padding">30dp</dimen>
+    <dimen name="margin150">150dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin120">120dp</dimen>
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="height_body620">620dp</dimen>
+    <dimen name="height_body570">570dp</dimen>
+    <dimen name="height_body590">590dp</dimen>
+    <dimen name="height_body600">600dp</dimen>
+    <dimen name="top_margin">60dp</dimen>
+    <dimen name="camera_size">36dp</dimen>
+    <dimen name="profile_image_height">300dp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_list"
+        android:icon="@drawable/ic_baseline_list_dark"
+        android:title="@string/list_restaurants"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_baseline_library_add_dark"
+        android:title="@string/add_restaurant"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/ic_baseline_account_box_dark"
+        android:title="@string/profile"
+        app:showAsAction="ifRoom" />
+<!--    <item-->
+<!--        android:id="@+id/logout"-->
+<!--        android:icon="@drawable/ic_baseline_logout_dark"-->
+<!--        android:title="@string/profile"-->
+<!--        app:showAsAction="ifRoom" />-->
+
+</menu>

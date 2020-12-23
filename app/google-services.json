@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455484181098",
+    "firebase_url": "https://restrator-242ac.firebaseio.com",
+    "project_id": "restrator-242ac",
+    "storage_bucket": "restrator-242ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455484181098:android:b60018684ab4e3d84a9813",
+        "android_client_info": {
+          "package_name": "com.gc200412272.restrator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455484181098-38eg5fso1dakqr5bmdkqadklvp2vibcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgaeNGpIdELeALq5--XWvNWKUCCwZ1io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455484181098-38eg5fso1dakqr5bmdkqadklvp2vibcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
